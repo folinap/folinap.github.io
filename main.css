@@ -13,7 +13,7 @@ html {
 body {
 
     background: #151D21;
-    background-image: url(../images/bg.png);
+    background-image: url(bg.png);
     background-position: top center;
     background-attachment: fixed;
     background-size: cover;
@@ -32,7 +32,7 @@ a:hover {
 }
 
 header .logo a {
-	background-image: url("../images/logo.png");
+	background-image: url("logo.png");
 	background-size: 100px;
 	background-repeat: no-repeat;
 	display: inline-block;
